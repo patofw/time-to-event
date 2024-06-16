@@ -54,3 +54,8 @@ then, Build the `time_to_event` module using:
 Finally, install all dependencies that are in the `setup.py` file with 
 
 `pip install -e .`
+
+## Tutorials and assigments
+
+In the analysis folder you have the [Introduction](./analysis/introduction.ipynb) and [RandomForest](./analysis/RandomForest.ipynb) notebooks. I recommend studying them in that order. 
+The class assigment introduction is in [assigment](./analysis/assignment.ipynb)

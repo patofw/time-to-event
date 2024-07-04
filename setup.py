@@ -18,7 +18,7 @@ setup(
     name="time_to_event",
     version="0.1",
     package_dir={'': 'src'},
-    packages=find_packages(),
+    packages=["time_to_event"],
     py_modules=['time_to_event'],
     long_description=long_description,
     long_description_content_type="text/markdown",
